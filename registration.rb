@@ -1,1 +1,1 @@
-- Add registration feature
+- Add registration feature, Update Backend validations
